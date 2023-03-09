@@ -3,3 +3,6 @@ body{
     /* background: rgb(0,24,233); */
     background: linear-gradient(90deg, rgba(0,24,233,1) 0%, rgba(29,203,253,1) 64%);
 }
+img {
+    mix-blend-mode: multiply;
+}
